@@ -297,3 +297,5 @@ churn-analytica/
 |-- requirements.txt
 |-- README.md
 ```
+
+# Developed By Mayssa Ghouma & Ahmed Bensalah
